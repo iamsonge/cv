@@ -64,7 +64,7 @@ margin:0 0 32px 17px;
 }
 
 #objective {
-width:500px;
+width:540px;
 float:left;
 }
 
@@ -98,7 +98,8 @@ margin:0;
 }
 
 .portrait{
-	height: 393px;
+	height: 260px;
+	margin-right: 30px;
 }
 
 .drop-shadow {
